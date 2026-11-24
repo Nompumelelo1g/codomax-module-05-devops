@@ -50,5 +50,5 @@ jobs:
         with:
           context: .
           push: ${{ github.event_name == 'push' }}
-          tags: ghcr.io/zeezol/hello-devops:latest
+          tags: ghcr.io/Nompumelelo1g/hello-devops:latest
 
